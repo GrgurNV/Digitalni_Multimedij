@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: black;	
+	font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, 'sans-serif';
+	font-size: 20px;
+	line-height: 35px;
+	width: 1500px;
+	background-color: lightgray;
+	padding: 20px;
+}
+h1 {
+	
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: red;
+	font-size: 40px;
+}
+h2 {
+	
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: lightslategrey;
+	font-size: 30px;
+}
+h3{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color:darkred;
+	font-size: 25px;
+}
+a{
+	font-size: 25px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: dimgray;
+	background-color: white;
+	padding: 10px;
+	line-height: 50px;
+	border:6px #FFFDFD;
+
+}
+body{
+	background-color: rgb(45, 35, 134)
+}
